@@ -4,13 +4,13 @@
 
 ## MoodTracker Live Demo
 
-**Note:** Scroll all the way down to access the projects
+**Note:** Scroll down to access the projects
 
 **MoodTracker** is a multi-modal mood analysis application that provides users with different ways to track and analyze their daily mood. This project combines three components: a real-time face emotion detection application, an emotion classifier app, and a voice-based mood analyzer. Each component offers unique features for mood tracking and analysis.
 
 ## Features
 
-### [Emotion Classifier App (Text-Based Mood Analyzer)](https://mooodd.streamlit.app/)
+### [Emotion Classifier App (Text-Based Mood Analyzer)]
 - An NLP-powered web app that can predict emotions from text recognition with 70 percent accuracy.
 - Utilizes Python libraries including Numpy, Pandas, Seaborn, Scikit-learn, Scipy, Joblib, eli5, lime, neattext, altair, and Streamlit.
 - Employs a Linear regression model from the scikit-learn library to train a dataset containing speeches and their respective emotions.
